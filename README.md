@@ -1,1 +1,3 @@
 # git-pratica
+
+ESTE É UM REPOSITORIO DE PRATICA DE GIT
